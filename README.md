@@ -1,1 +1,1 @@
-a calculator with ival() function
+a calculator with eval() function
